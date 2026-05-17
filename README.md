@@ -8,7 +8,7 @@ This repository provides a pure Python implementation of the AMBTC-based stegano
 
 This code is an independent implementation of the following research:
 
-**"A Robust and High-Capacity Coverless Information Hiding Based on Combination Theory"** by Kurnia Anggriani, Shu-Fen Chiou, Nan-I Wu, and Min-Shiang Hwang (2023).
+**"High Imperceptible Data Hiding Method for AMBTC Compressed Images Based on Combination Theory"** by Kurnia Anggriani, Shu-Fen Chiou, Nan-I Wu, and Min-Shiang Hwang (2023).
 
 DOI: [10.20944/preprints202304.0341.v1](https://doi.org/10.20944/preprints202304.0341.v1)
 
