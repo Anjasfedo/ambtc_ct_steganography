@@ -65,3 +65,7 @@ python -m tests.performance
 python test_all.py
 
 ```
+
+---
+
+*Developed for academic research purposes. Last updated May 2026.*
